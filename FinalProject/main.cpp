@@ -8,5 +8,5 @@ int main()
     Rectangle rect(10,20);
     int area = rect.GetArea();
     cout << "The Area = " <<area<< endl;
-    return 0;
+    return  0;
 }

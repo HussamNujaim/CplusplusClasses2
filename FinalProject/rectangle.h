@@ -2,7 +2,7 @@
 #define RECTANGLE_H
 
 
-class Rectangle {
+class Rectangle  {
 private:
     int length, width;
 public:
